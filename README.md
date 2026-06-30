@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Highlight Projects
-- 🖼️ **[CIFAR-10 Image Classification](LINK_DẪN_TỚI_REPO_CIFAR10_CỦA_BẠN):** Trained a CNN model using Python to classify images, optimizing hyperparameters for better accuracy.
+- 🖼️ - 🐾 **[Animal Recognition System V3 (Hybrid CNN-XGBoost)](https://github.com/phuocle1231236-sys/animal-recognition):** Trained a hybrid model combining MobileNetV2 and XGBoost with a Tkinter GUI for animal classification.
 - 🚚 **[TSP Optimization](LINK_DẪN_TỚI_REPO_TSP_CỦA_BẠN):** Implemented Greedy Heuristics and Large Neighborhood Search (LNS) to optimize large-scale routing problems (100-1000 customers).
 
 ---
