@@ -9,7 +9,7 @@
 
 ### 🚀 Highlight Projects
 - 🖼️ - 🐾 **[Animal Recognition System V3 (Hybrid CNN-XGBoost)](https://github.com/phuocle1231236-sys/animal-recognition):** Trained a hybrid model combining MobileNetV2 and XGBoost with a Tkinter GUI for animal classification.
-- 🚚 **[TSP Optimization](LINK_DẪN_TỚI_REPO_TSP_CỦA_BẠN):** Implemented Greedy Heuristics and Large Neighborhood Search (LNS) to optimize large-scale routing problems (100-1000 customers).
+- 🚚 **[TSP Optimization](https://github.com/phuocle1231236-sys/tsp-lns-solver):** Implemented Greedy Heuristics and Large Neighborhood Search (LNS) to optimize large-scale routing problems (100-1000 customers).
 
 ---
 
