@@ -2,34 +2,29 @@
 
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, C++, SQL
-- **Libraries/Frameworks:** TensorFlow, Keras, NumPy, Pandas, Matplotlib
-- **Algorithms & Focus:** Deep Learning (CNNs), Optimization Algorithms (Heuristics, LNS), Data Analytics
+- **AI & ML Frameworks:** TensorFlow, Keras, OpenAI Whisper, Google GenAI
+- **Data & Tools:** NumPy, Pandas, Matplotlib, FastAPI
+- **Core Focus:** Deep Learning (CNNs), Optimization Algorithms (Heuristics, LNS), RESTful APIs
 
 ---
 
 ### 🚀 Highlight Projects
-- 🖼️ - 🐾 **[Animal Recognition System V3 (Hybrid CNN-XGBoost)](https://github.com/phuocle1231236-sys/animal-recognition):** Trained a hybrid model combining MobileNetV2 and XGBoost with a Tkinter GUI for animal classification.
-- 🚚 **[TSP Optimization](https://github.com/phuocle1231236-sys/tsp-lns-solver):** Implemented Greedy Heuristics and Large Neighborhood Search (LNS) to optimize large-scale routing problems (100-1000 customers).
+
+- 🎓 **[Lecture AI Assistant Backend](https://github.com/phuocle1231236-sys/lecture-ai-backend):** An AI-powered RESTful API that transcribes lecture audio using **OpenAI Whisper** and generates structured summaries using **Gemini 2.5 Flash**.
+- 🚚 **[TSP Optimization Solver](https://github.com/phuocle1231236-sys/tsp-lns-solver):** Implemented Greedy Heuristics and Large Neighborhood Search (LNS) to solve large-scale routing problems on Solomon Benchmarks (100–1000 customers).
+- 🐾 **[Animal Recognition System V3](https://github.com/phuocle1231236-sys/animal-recognition):** Trained a hybrid model combining MobileNetV2 and XGBoost with a desktop GUI for animal classification.
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=THAY_USERNAME_CỦA_BẠN_VÀO_ĐÂY&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THAY_USERNAME_CỦA_BẠN_VÀO_ĐÂY&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phuocle1231236-sys&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuocle1231236-sys&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
-<!--
-**phuocle1231236-sys/phuocle1231236-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- **Email:** *(Điền Email của bạn vào đây)*
+- **LinkedIn:** *(Điền link LinkedIn nếu có)*
