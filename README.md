@@ -26,5 +26,5 @@
 ---
 
 ### 📫 How to reach me
-- **Email:** *(Điền Email của bạn vào đây)*
-- **LinkedIn:** *(Điền link LinkedIn nếu có)*
+- **Email:** *phuocle1231236@gmail.com*
+- **zalo:** *0983284049*
