@@ -26,5 +26,5 @@
 ---
 
 ### 📫 How to reach me
-- **Email:** *phuocle1231236@gmail.com*
-- **zalo:** *0983284049*
+- **Email:** 
+- **zalo:** 
